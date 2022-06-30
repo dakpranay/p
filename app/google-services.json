@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "152009287104",
+    "firebase_url": "https://calulator-1e06e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "calulator-1e06e",
+    "storage_bucket": "calulator-1e06e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152009287104:android:464af2271193c8d82c1425",
+        "android_client_info": {
+          "package_name": "com.example.cal3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152009287104-ulrq3fvdnt9svrgi2f48jc2v1oam0pqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnreN9rQ4UcsgPaKl8kChmVuzYo-YiMyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152009287104-ulrq3fvdnt9svrgi2f48jc2v1oam0pqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
